@@ -11,6 +11,6 @@ Features,
 
 <img src="./accord_1.PNG" alt="1st Version" style="width: 100%;">
 <img src="./accord_2.PNG" alt="1st Version" style="width: 100%;">
-<img src="./accord_3.PNG" alt="1st Version" style="width: 100%;">
-<img src="./accord_4.PNG" alt="1st Version" style="width: 100%;">
-<img src="./accord_5.PNG" alt="1st Version" style="width: 100%;">
+<img src="./accord3.PNG" alt="1st Version" style="width: 100%;">
+<img src="./accord4.PNG" alt="1st Version" style="width: 100%;">
+<img src="./accord5.PNG" alt="1st Version" style="width: 100%;">
