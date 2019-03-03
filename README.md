@@ -9,12 +9,12 @@ Features,
   Check out how it works .
 </a>
 
-<div style="display:flex">
-<img src="./accord_1.PNG" alt="1st Version" style="width: 20%;">
-<img src="./accord_2.PNG" alt="1st Version" style="width: 20%;">
-<img src="./accord3.PNG" alt="1st Version" style="width: 20%;">
-<img src="./accord4.PNG" alt="1st Version" style="width: 20%;">
-<img src="./accord5.PNG" alt="1st Version" style="width: 20%;">
+<div style="display: flex;">
+  <img src="./accord_1.PNG" alt="1st Version" style="width: 20%;">
+  <img src="./accord_2.PNG" alt="1st Version" style="width: 20%;">
+  <img src="./accord3.PNG" alt="1st Version" style="width: 20%;">
+  <img src="./accord4.PNG" alt="1st Version" style="width: 20%;">
+  <img src="./accord5.PNG" alt="1st Version" style="width: 20%;">
 </div>
 
 
